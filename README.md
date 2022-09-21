@@ -16,7 +16,7 @@ Shashwat Panwar
 
 #### Activity 4
 
-![Teammate Repo - Abdul Shahzad](https://github.com/0x0xnull/ECE444-F2022-Lab1.git)
+[Teammate Repo - Abdul Shahzad](https://github.com/0x0xnull/ECE444-F2022-Lab1.git)
 
 Pushing to teammate repo:
 ![alt text](https://github.com/shashPanwar/ECE444-F2022-Lab1/blob/main/images/activity_4_push.PNG)
