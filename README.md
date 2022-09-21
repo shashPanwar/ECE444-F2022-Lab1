@@ -28,6 +28,8 @@ Shashwat Panwar
 
 #### Activity 7
 
+![alt text](https://github.com/shashPanwar/ECE444-F2022-Lab1/blob/main/images/rebase_change_title_screenshot.PNG)
+
 ![alt text](https://github.com/shashPanwar/ECE444-F2022-Lab1/blob/main/images/rebase_change_title.PNG)
 
-![alt text](https://github.com/shashPanwar/ECE444-F2022-Lab1/blob/main/images/rebase_change_title_screenshot.PNG)
+
