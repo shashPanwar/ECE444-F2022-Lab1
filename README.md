@@ -9,3 +9,7 @@ Shashwat Panwar
 #### Activity 2
 
 ![alt text](https://github.com/shashPanwar/ECE444-F2022-Lab1/blob/main/images/merge_helloworld_main.PNG)
+
+#### Activity 3
+
+![alt text](https://github.com/shashPanwar/ECE444-F2022-Lab1/blob/main/images/pull_request_issue.PNG)
