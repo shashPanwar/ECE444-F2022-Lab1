@@ -45,4 +45,8 @@ Pulling teammate changes to local repo:
 
 ![alt text](https://github.com/shashPanwar/ECE444-F2022-Lab1/blob/main/images/rebase_change_title.PNG)
 
+#### Activity 8
 
+![alt text](https://github.com/shashPanwar/ECE444-F2022-Lab1/blob/main/images/a8_tab.PNG)
+
+![alt text](https://github.com/shashPanwar/ECE444-F2022-Lab1/blob/main/images/a8_rebase.PNG)
