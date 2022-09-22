@@ -27,7 +27,13 @@ Pulling teammate changes to local repo:
 
 #### Activity 5
 
--
+![alt text](https://github.com/shashPanwar/ECE444-F2022-Lab1/blob/main/images/A5_c1c2.PNG)
+![alt text](https://github.com/shashPanwar/ECE444-F2022-Lab1/blob/main/images/A5_c3c4.PNG)
+![alt text](https://github.com/shashPanwar/ECE444-F2022-Lab1/blob/main/images/a5_rebase.PNG)
+![alt text](https://github.com/shashPanwar/ECE444-F2022-Lab1/blob/main/images/A5_result.PNG)
+
+
+
 
 #### Activity 6
 
