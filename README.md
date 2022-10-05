@@ -6,7 +6,7 @@ Shashwat Panwar
 
 ## Lab3 - activity 2
 
-![alttext](https://github.com/shashPanwar/ECE444-F2022-Lab1/blob/lab3/images/docker_v.PNG)
+![alttext](https://github.com/shashPanwar/ECE444-F2022-Lab1/blob/lab3/images/docker_v.png)
 
 # Education_Pathways
 
