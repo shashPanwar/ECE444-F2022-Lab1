@@ -2,6 +2,8 @@
 
 Shashwat Panwar
 
+(The lab3 branch is currently the default, view lab1 [here](https://github.com/shashPanwar/ECE444-F2022-Lab1/tree/main) 
+
 # Education_Pathways
 
 This is a modified version of the previous Assignment1 template.
