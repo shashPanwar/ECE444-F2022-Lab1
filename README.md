@@ -4,6 +4,10 @@ Shashwat Panwar
 
 (The lab3 branch is currently the default, view lab1 [here](https://github.com/shashPanwar/ECE444-F2022-Lab1/tree/main))
 
+## Lab3 - activity 2
+
+![alttext](https://github.com/shashPanwar/ECE444-F2022-Lab1/blob/lab3/images/docker_v.PNG)
+
 # Education_Pathways
 
 This is a modified version of the previous Assignment1 template.
