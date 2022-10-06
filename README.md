@@ -10,7 +10,9 @@ Shashwat Panwar
 
 ## Lab3 - activity 3
 
-![alttext](https://github.com/shashPanwar/ECE444-F2022-Lab1/blob/lab3/images/a3.PNG)
+![alttext](https://github.com/shashPanwar/ECE444-F2022-Lab1/blob/lab3/images/a3.PNG)ab
+
+## Lab3 - activity 4
 
 # Education_Pathways
 
